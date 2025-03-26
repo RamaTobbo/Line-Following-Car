@@ -33,5 +33,5 @@ This project demonstrates the creation of a simple line-following car using sens
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/RamaTobbo/line-following-car.git
+   git clone https://github.com/RamaTobbo/Line-Following-Car.git
 
