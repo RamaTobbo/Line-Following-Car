@@ -24,6 +24,7 @@ This project demonstrates the creation of a simple line-following car using sens
 ## Line Following Car in Action
 
 https://github.com/user-attachments/assets/6f9ef834-014f-4ef9-8e30-02837374a775
+https://github.com/user-attachments/assets/77959036-abc9-474e-ae33-91fe749dbbd9
 
 
 ## Installation
