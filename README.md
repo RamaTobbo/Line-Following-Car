@@ -21,6 +21,14 @@ This project demonstrates the creation of a simple line-following car using sens
 - **Wheels:** For movement
 - **Jumper Wires and Connectors**
 
+## Line Following Car in Action
+
+<video width="640" height="360" controls muted>
+  <source src="line-following-car.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Installation
 
 1. Clone this repository to your local machine:
