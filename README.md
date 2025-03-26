@@ -23,10 +23,7 @@ This project demonstrates the creation of a simple line-following car using sens
 
 ## Line Following Car in Action
 
-<video width="640" height="360" controls muted>
-  <source src="line-following-car.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/6f9ef834-014f-4ef9-8e30-02837374a775
 
 
 ## Installation
