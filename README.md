@@ -25,21 +25,9 @@ This project demonstrates the creation of a simple line-following car using sens
 
 
 
-<div style="display: flex; justify-content: space-between;">
+https://github.com/user-attachments/assets/77959036-abc9-474e-ae33-91fe749dbbd9
 
-  <!-- First video -->
-  <video width="300" height="200" controls>
-    <source src="https://github.com/user-attachments/assets/6f9ef834-014f-4ef9-8e30-02837374a775" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <!-- Second video -->
-  <video width="300" height="200" controls>
-    <source src="https://github.com/user-attachments/assets/77959036-abc9-474e-ae33-91fe749dbbd9" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-</div>
+https://github.com/user-attachments/assets/69fe9e2d-3324-4c76-8495-c2ae611684b5
 
 
 
